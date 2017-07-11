@@ -1,0 +1,19 @@
+#1  Object to Array
+    输入: Order Info: { 
+          barcode: String,
+          name: String,
+          unit: String,
+          price: String,
+          count: String
+} 
+    输出：Order Array[String]
+#2  percount
+    输入： Order Info.price
+           Order Info.count
+    输出： percount[String]
+#3  allcount
+    输入： percount[String] 
+    输出： number(allcount)
+#4  typeout
+    输入：Order Array[String]，percount[String],number(allcount)
+    输出：list[String]          
